@@ -68,15 +68,14 @@ keyword-filter-type = false
 🍟 新浪微博 = select, 🌐 全球直连, ✈️ 节点选择, 🇭🇰 香港节点, 🇺🇲 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点
 Ⓜ️ 微软服务 = select, 🌐 全球直连, ✈️ 节点选择, 🇭🇰 香港节点, 🇺🇲 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点
 🍎 苹果服务 = select, 🌐 全球直连, ✈️ 节点选择, 🇭🇰 香港节点, 🇺🇲 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点
-# > 外部节点
 🎮 游戏平台 = select, 🌐 全球直连, ✈️ 节点选择, 🇭🇰 香港节点, 🇺🇲 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点, no-alert=0, hidden=0, include-all-proxies=0
-🇭🇰 香港节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇭🇰, no-alert=0, hidden=0, include-all-proxies=0
-🇨🇳 台湾节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇨🇳, no-alert=0, hidden=0, include-all-proxies=0
-🇺🇲 美国节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇺🇸, no-alert=0, hidden=0, include-all-proxies=0
-🇷🇺 俄罗斯 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=俄罗斯|🇷🇺, no-alert=0, hidden=0, include-all-proxies=0
-🇬🇧 英国节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇬🇧, no-alert=0, hidden=0, include-all-proxies=0
-🇯🇵 日本节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇯🇵, no-alert=0, hidden=0, include-all-proxies=0
-🇸🇬 新加坡节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇸🇬, no-alert=0, hidden=0, include-all-proxies=0
+🇭🇰 香港节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇭🇰|香港|HK, no-alert=0, hidden=0, include-all-proxies=0
+🇨🇳 台湾节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇨🇳|台湾|TW, no-alert=0, hidden=0, include-all-proxies=0
+🇺🇲 美国节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇺🇸|美国|US, no-alert=0, hidden=0, include-all-proxies=0
+🇷🇺 俄罗斯 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=俄罗斯|🇷🇺|RU, no-alert=0, hidden=0, include-all-proxies=0
+🇬🇧 英国节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇬🇧|英国|UK, no-alert=0, hidden=0, include-all-proxies=0
+🇯🇵 日本节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇯🇵|日本|JP, no-alert=0, hidden=0, include-all-proxies=0
+🇸🇬 新加坡节点 = url-test, policy-path=[配置链接], update-interval=0, policy-regex-filter=🇸🇬|新加坡|SG, no-alert=0, hidden=0, include-all-proxies=0
 🤔 手动选择 = select, policy-path=[配置链接], update-interval=0, no-alert=0, hidden=0, include-all-proxies=0
 
 [Rule]
