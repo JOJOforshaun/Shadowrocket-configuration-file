@@ -12,7 +12,8 @@ Loon的配置文件 纯手工自制 分流更齐 更适合上手
 
 或者复制后方链接在Shadowrocket中引用：https://raw.githubusercontent.com/MengYuLianMian/Shadowrocket-configuration-file-MengRain/main/小火箭配置文件
 
-PS:![image](https://user-images.githubusercontent.com/89105781/184539595-63ecb967-5df1-4393-a5de-a584945d684a.png)
+PS:
+![image](https://user-images.githubusercontent.com/89105781/184539595-63ecb967-5df1-4393-a5de-a584945d684a.png)
 
 
 # 使用技巧
