@@ -7,6 +7,14 @@ Loon的配置文件 纯手工自制 分流更齐 更适合上手
 
 感谢采用我的配置QwQ
 
+# 使用方法
+点击 [PS] 中红框所框出的文件后复制全部粘贴至Shadowrocket即可（Shadowrocket需要以文本格式编辑）
+
+或者复制后方链接在Shadowrocket中引用：https://raw.githubusercontent.com/MengYuLianMian/Shadowrocket-configuration-file-MengRain/main/小火箭配置文件
+
+PS:![image](https://user-images.githubusercontent.com/89105781/184539595-63ecb967-5df1-4393-a5de-a584945d684a.png)
+
+
 # 使用技巧
 由于小火箭无法将模块包含在配置文件中则本 [配置文件] 未包含任何 [模块] 
 
