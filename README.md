@@ -10,7 +10,7 @@ Shadowrocket的配置文件 纯手工自制 分流更齐 更适合上手
 # 使用方法
 点击 [PS] 中红框所框出的文件后复制全部粘贴至Shadowrocket即可（Shadowrocket需要以文本格式编辑）
 
-或者复制后方链接在Shadowrocket中引用：https://raw.githubusercontent.com/MengYuLianMian/Shadowrocket-configuration-file-MengRain/main/小火箭配置文件
+或者复制后方链接在Shadowrocket中引用：https://raw.githubusercontent.com/MengYuLianMian/Shadowrocket-configuration-file-MengRain/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6
 
 PS:
 
