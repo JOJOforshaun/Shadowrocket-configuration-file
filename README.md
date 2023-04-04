@@ -1,9 +1,9 @@
 # 前言
 Shadowrocket的配置文件 纯手工自制 分流更齐 更适合上手
 
-我的TG频道：[点击一键关注](https://t.me/mengyulianmian)
+~~我的TG频道：[点击一键关注](https://t.me/mengyulianmian)~~
 
-我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)
+~~我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)~~
 
 
 感谢采用我的配置QwQ  （PS:配置文件中的Date是指最后一次更新的时间
